@@ -25,10 +25,10 @@ public class RegExpDemo {
 //        String s = "15183463157";
 //        System.out.println(s.replaceAll("(\\d{3})(\\d{4})(\\d{3})", "$1****$3"));
 
-        String s = ".192.168.1...2";
-        String[] split = s.split("\\.+");
-        System.out.println(Arrays.toString(split));
-        System.out.println(Arrays.asList(split));
+//        String s = ".192.168.1...2";
+//        String[] split = s.split("\\.+");
+//        System.out.println(Arrays.toString(split));
+//        System.out.println(Arrays.asList(split));
     }
 }
 
